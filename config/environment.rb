@@ -4,3 +4,6 @@ require 'base64'
 Bundler.require
 
 require_relative '../lib/sql_queries'
+
+
+#requires bundler and files
